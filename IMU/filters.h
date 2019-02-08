@@ -27,4 +27,3 @@ float butterworthModFilter(float currentVal, float prevVal, byte forSensor) {
     return prevVal + (multiplier * difference);
   }
 }
-

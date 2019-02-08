@@ -1,0 +1,26 @@
+########################################################
+# Syntax Coloring Map for SparkFun LSM9DS0 IMU Library #
+########################################################
+# Class
+###################################################################
+
+quaternion	KEYWORD1
+
+
+###################################################################
+# Methods and Functions
+###################################################################
+
+normalizeMagnitude	KEYWORD2
+getMagnitude	KEYWORD2
+getInverted	KEYWORD2
+multiply	KEYWORD2
+getRotated	KEYWORD2
+undoRotation KEYWORD2
+set	KEYWORD2
+
+###################################################################
+# Constants
+###################################################################
+
+
